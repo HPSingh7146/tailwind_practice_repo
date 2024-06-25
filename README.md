@@ -1,5 +1,5 @@
 # tailwind_practice_repo
-=======
+=======  
 This is just a practice repo to practice tailwind css  <br>
 # create-svelte
 
