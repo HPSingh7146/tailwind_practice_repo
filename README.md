@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # tailwind_practice_repo
 =======
-This is just a practice repo to practice tailwind css
+This is just a practice repo to practice tailwind css  
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
