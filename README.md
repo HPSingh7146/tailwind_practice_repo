@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # tailwind_practice_repo
+This is just a practice repo to practice tailwind css
 =======
 # create-svelte
 
@@ -39,4 +40,3 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
->>>>>>> bd43ae1 (initial commit)
