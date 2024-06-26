@@ -39,10 +39,9 @@
 			<label for="a" class=" text-teal-700 text-xl -mt-0.5">Checkbox</label>
 		</div>
 	</div>
-	<div class="buttons flex justify-around">
-		<button>Button 1</button>
-		<button>button 2</button>
-		<button>Button 3</button>
+	<div class="buttons flex justify-around bg-gray-900 p-3 text-white rounded-2xl ">
+		<button class=" bg-orange-600 p-2 rounded-lg font-bold">Button 1</button>
+		<button class=" bg-amber-800 p-2 rounded-lg disabled:bg-slate-700  font-bold" disabled>button 2</button>
 	</div>
 </div>
 
